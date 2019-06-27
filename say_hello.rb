@@ -2,6 +2,7 @@
 
 def say_hello(name)
   return "Hello #{name}"
+  puts name
 end
 
 
