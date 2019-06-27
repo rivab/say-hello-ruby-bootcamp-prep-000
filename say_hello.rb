@@ -5,7 +5,7 @@ def say_hello(name)
   puts name
   
   if(name==" ")
-    return puts "hello ruby programmer"
+    return puts "Hello Ruby Programmer!"
   end
 end
 
