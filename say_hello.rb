@@ -4,7 +4,7 @@ def say_hello(name)
   return puts "Hello #{name}!"
   puts name
   
-  if(name==" ")
+  if(name=="")
     return puts "Hello Ruby Programmer!"
   end
 end
