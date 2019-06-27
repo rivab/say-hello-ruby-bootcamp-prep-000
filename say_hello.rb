@@ -7,9 +7,10 @@ def say_hello(name=" ")
     return puts "Hello Ruby Programmer!"
   end
 else
-end
+
 return puts "Hello #{name}!"
   puts name
+end
 end
 
 
