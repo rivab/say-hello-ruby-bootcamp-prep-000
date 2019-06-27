@@ -15,4 +15,4 @@ end
 end
 
 
-say_hello("Riva")
+say_hello(" ")
